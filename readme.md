@@ -1,6 +1,6 @@
-## About Dukan Project
+## About Project
 
-Dukan Ecommerce Project
+ Ecommerce Project
 
 ## Note To add necessary files <br>
 ```
